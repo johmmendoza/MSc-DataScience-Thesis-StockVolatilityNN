@@ -1,0 +1,1 @@
+The file for Experiments 1 and 2 contains the aggregation and evaluation of the predicted models from both experiments. The file for Experiment 3 includes the forecasting on the AEX dataset index of the models from Experiment 1, along with the aggregation and evaluation of their predictions.
